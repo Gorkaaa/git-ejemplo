@@ -6,4 +6,8 @@ public class HolaMundo {
 		System.out.println("Hola mundo!");
 		System.out.println("Hola mundo");
 	}
+
+	public int sumar(int a, int b) {
+		return a + b;
+	}
 }
